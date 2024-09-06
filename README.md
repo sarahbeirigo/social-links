@@ -2,11 +2,13 @@
     :construction:  Projeto em construção  :construction:
 </h4>
 
-## 🏆 Frontend Mentor - Solução do desafio Social Links Profile
+<h2 align="center">🏆 Frontend Mentor - Solução do desafio Social Links Profile</h2>
+
 
 Esta é uma solução para o [desafio Social Links Profile no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Os desafios do Frontend Mentor ajudam a aprimorar suas habilidades de codificação através da construção de projetos reais.
 
-O **Social Links** é um site de página única que organiza todos os links de redes sociais de forma elegante e acessível. Utilizando apenas HTML e CSS. Com um layout simples e otimizado.
+O **Social Links** é um site de página única que organiza todos os links de redes sociais de forma elegante e acessível. 
+Utilizando apenas HTML e CSS, criando um layout simples e otimizado.
 
 ![Bikcraft Preview](./assets/images/social-links-preview.jpg)
 
