@@ -1,11 +1,10 @@
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+
 
 <h2 align="center">🏆 Frontend Mentor - Solução do desafio Social Links Profile</h2>
 
 
-Esta é uma solução para o [desafio Social Links Profile no Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Os desafios do Frontend Mentor ajudam a aprimorar suas habilidades de codificação através da construção de projetos reais.
+Esta é uma solução para o desafio Social Links Profile no [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Os desafios do Frontend Mentor ajudam a aprimorar suas habilidades de codificação através da construção de projetos reais.
 
 O **Social Links** é um site de página única que organiza todos os links de redes sociais de forma elegante e acessível. 
 Utilizando apenas HTML e CSS, criando um layout simples e otimizado.
@@ -55,7 +54,8 @@ cd social-links
 
 3. Abra o arquivo `index.html` diretamente no navegador para visualizar o site.
 
-## 📈 Aprendizados
+
+### ✍️ Aprendizado
 
 Neste projeto, aprofundei meus conhecimentos em:
 
