@@ -10,7 +10,7 @@ Esta é uma solução para o [desafio Social Links Profile no Frontend Mentor](h
 O **Social Links** é um site de página única que organiza todos os links de redes sociais de forma elegante e acessível. 
 Utilizando apenas HTML e CSS, criando um layout simples e otimizado.
 
-![Bikcraft Preview](./assets/images/social-links-preview.jpg)
+![Bikcraft Preview](./assets/images/preview.png)
 
 ## 🔧 Tecnologias Utilizadas
 
