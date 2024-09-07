@@ -3,7 +3,6 @@
 body {
   background-color: rgb(11, 9, 9);
   font-family: "Inter", sans-serif;
-  display: flex;
   font-size: 1rem;
   margin: 0;
   padding: 0;
@@ -24,16 +23,19 @@ h3 {
 p {
   font-weight: 400;
   font-size: 0.875rem;
+  color: hsl(0, 0%, 100%);
 }
 
 a {
   text-decoration: none;
   color: hsl(0, 0%, 100%);
-  display: block;
-  text-align: center;
   font-weight: 600;
 }
 
+.links a {
+  display: block;
+  text-align: center;
+}
 img {
   display: block;
   max-width: 100%;
@@ -82,3 +84,16 @@ img {
   margin: 100px 550px 100px 550px;
   padding: 20px;
 }
+
+footer{
+  text-align: center;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+footer a {
+  color: hsl(75, 94%, 57%) ;
+}
+
+
+ 
