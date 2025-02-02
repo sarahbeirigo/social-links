@@ -1,4 +1,4 @@
-<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/></p>
+<p align="center"><img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=BLUE&style=for-the-badge"/></p>
 
 
 <h2 align="center">🏆 Frontend Mentor - Solução do desafio Social Links Profile</h2>
@@ -62,12 +62,6 @@ Neste projeto, aprofundei meus conhecimentos em:
 - Desenvolvimento de estilzações em CSS
 - Estruturação de conteúdo com HTML5 semântico
 
-## 💡 Melhorias Futuras
-
-- Adição de animações mais avançadas com CSS
-- Integração com JavaScript para exibir e ocultar links dinamicamente
-- Implementação de temas claros e escuros para personalização de design
-- Design resposivo para dispositivos mobiles
 
 ## 📝 Contato
 
